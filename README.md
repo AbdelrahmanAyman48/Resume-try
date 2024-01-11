@@ -1,10 +1,11 @@
-# My Resume
+# Professional Resume Website
 
-This repository contains the source code for my personal resume website.
+Welcome to my professional resume website! This repository contains the source code for my personal resume, showcasing my skills, projects, and contact information.
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -12,27 +13,38 @@ This repository contains the source code for my personal resume website.
 
 ## Introduction
 
-This is my personal resume website showcasing my skills, projects, and contact information.
+This website serves as an interactive and visually appealing resume, providing insights into my skills, projects, and a way to get in touch with me.
 
 ## Features
 
-- Responsive design for various screen sizes.
-- Dark mode toggle switch.
-- Sections for bio, skills, projects, clients, and contact.
+- **Responsive Design:** Ensures an optimal viewing experience across various devices.
+- **Dark Mode Toggle:** Switch between light and dark themes for user preference.
+- **Bio Section:** Highlights personal information, objectives, and social links.
+- **Skills Section:** Presents a grid of skills with associated years of experience.
+- **Projects Section:** Displays a collection of projects with images and descriptions.
+- **Clients Section:** Features client opinions with horizontal scrolling.
+- **Contact Section:** Provides a contact form and links to social platforms.
+
+## Technologies Used
+
+- **HTML5:** Structure of the website.
+- **CSS3:** Styling and layout design.
+- **JavaScript:** Interactivity and animations.
 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/AbdelrahmanAyman48/Resume-try.git`
-2. Open `index.html` in your browser.
+2. Open `index.html` in your preferred web browser.
 
 ## Usage
 
-- Explore different sections of the resume.
-- Toggle dark mode using the switch.
+1. Explore different sections of the resume.
+2. Toggle dark mode using the switch.
+3. Check out projects, skills, and contact information.
 
 ## Contributing
 
-Feel free to contribute by opening issues or submitting pull requests.
+Contributions are welcome! If you have suggestions, find bugs, or want to contribute enhancements, please open an issue or submit a pull request.
 
 ## License
 
